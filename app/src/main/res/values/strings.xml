@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Duas_Activities</string>
+    <string name="button_main">Enviar</string>
+    <string name="second_activity_name">Second Activity</string>
+    <string name="text_header">Mensagem Recebida</string>
+    <string name="editText_main_hint">Digite sua mensagem</string>
+</resources>
